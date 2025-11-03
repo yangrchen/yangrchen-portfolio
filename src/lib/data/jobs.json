@@ -1,0 +1,54 @@
+[
+	{
+		"company": "Fifth Third Bank",
+		"dateString": "Jun 2024 - Nov 2025",
+		"title": "Data Scientist, MLOps",
+		"descriptions": [
+			"built ML search engine models to serve mobile banking customer",
+			"optimized ML credit underwriting models for faster credit decisioning"
+		],
+		"skills": ["Python", "Snowflake", "SQL", "PyTorch", "Docker", "Jenkins"],
+		"href": "https://www.53.com/"
+	},
+	{
+		"company": "Macedon Technologies",
+		"dateString": "Jan 2022 - Jan 2023",
+		"title": "Software Consultant",
+		"descriptions": [
+			"consulted with Gordon Food Services to develop enterprise-scale applications in Appian"
+		],
+		"skills": ["Appian", "Python", "MySQL"]
+	},
+	{
+		"company": "Credit Suisse",
+		"dateString": "Jun 2021 - Aug 2021",
+		"title": "Summer Technology Analyst",
+		"descriptions": [
+			"implemented local interpretability for ML models on banking data",
+			"analyzed data to improve business understanding"
+		],
+		"skills": ["Python", "H2O", "LIME", "SHAP"],
+		"href": "https://www.credit-suisse.com/us/en.html"
+	},
+	{
+		"company": "Liberty Mutual Insurance",
+		"dateString": "May 2020 - Aug 2020",
+		"title": "Software Developer Intern",
+		"descriptions": [
+			"developed secure content management APIs",
+			"researched performance enhancements to help scale applications"
+		],
+		"skills": ["React", "Node.js", "Bamboo CI", "AWS DynamoDB"],
+		"href": "https://www.libertymutual.com/"
+	},
+	{
+		"company": "UNC Virtual Reality Group",
+		"dateString": "Jun 2019 - Oct 2019",
+		"title": "Research Assistant",
+		"descriptions": [
+			"researched and combined NLP and augmented reality to assist medical patients"
+		],
+		"skills": ["OpenCV", "Unity", "C#"],
+		"href": "https://telepresence.web.unc.edu/"
+	}
+]
