@@ -32,21 +32,27 @@
 				productionized solutions</a
 			>. Outside of work, I'm an avid
 			<a
-				href={resolve('/drawings')}
+				href={resolve('/artwork')}
 				class="blue-highlight border-b-2 border-cyan-300 hover:border-cyan-500"
 			>
 				representational artist</a
 			>
 			and I love climbing / hiking with friends. Check out my work in the
 			<a
-				href={resolve('/drawings')}
+				href={resolve('/artwork')}
 				class="blue-highlight border-b-2 border-cyan-300 hover:border-cyan-500"
 			>
 				gallery!</a
 			>
 		</p>
 		<p>
-			Always happy to talk so feel free to ping me by email or schedule some time on <a
+			Always happy to talk so feel free to ping me by <a
+				href="mailto:yangrc.chen@gmail.com"
+				target="_blank"
+				class="green-highlight border-b-2 border-emerald-300 hover:border-emerald-500">email</a
+			>
+			or schedule some time on
+			<a
 				href="https://calendar.app.google/ua1vuYRzzARLByhj6"
 				class="pink-highlight border-b-2 border-pink-300 hover:border-pink-500">my calendar!</a
 			>
