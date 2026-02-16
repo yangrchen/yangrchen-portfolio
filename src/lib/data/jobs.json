@@ -1,5 +1,13 @@
 [
 	{
+		"company": "Dataiku",
+		"dateString": "Dec 2025 - Present",
+		"title": "Data Scientist",
+		"descriptions": [],
+		"skills": ["Python", "Dataiku DSS", "SQL", "LLMs"],
+		"href": "https://www.dataiku.com/"
+	},
+	{
 		"company": "Fifth Third Bank",
 		"dateString": "Jun 2024 - Nov 2025",
 		"title": "Data Scientist, MLOps",
